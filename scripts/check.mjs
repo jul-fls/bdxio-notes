@@ -17,7 +17,7 @@ assert.equal(new Set(sessions.map(t=>t.id)).size,sessions.length,'Identifiants u
 for(const status of ['complete','partial','absent'])assert.equal(sessions.filter(t=>t.status===status).length,source.sessions.filter(t=>t.status===status).length);
 const counts={};
 for(const t of sessions){
-  if (edition.year === 2023 && t.format === 'Keynote') assert.equal(new URL(t.source).protocol, 'https:');
+  if (!/^\d+$/.test(t.officialId)) assert.equal(new URL(t.source).protocol, 'https:');
   else assert.match(t.source,/^https:\/\/bdxio\.fr\/(?:\d{4}\/)?talks\/\d+$/);
   assert.ok(t.title&&typeof t.time==='string'&&t.room&&t.speakers.length,'Métadonnées obligatoires');
   assert.ok(!t.html.includes('<script'),'Pas de script dans le Markdown rendu');

@@ -87,8 +87,12 @@
       "speakers": [
         {
           "name": "Stéphane Trebel",
-          "photo": "https://gravatar.com/avatar/f56f1cc7e16ffbc5f6f19218ed74d24f773818f3e7adef53ca1b91011c6c5496?v=1767775716000&size=256&d=initials",
+          "photo": "https://media.licdn.com/dms/image/v2/D4E03AQGfhUBRz9vBMQ/profile-displayphoto-scale_400_400/B4EZuPAqALIQAg-/0/1767630873332?e=1796860800&v=beta&t=20XHFZsZn8quEtIjR5-KnMoJlszoTuI3Pjoz3CGA1kU",
           "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/stephane-trebel/"
+            },
             {
               "url": "https://x.com/stephanetrebel",
               "label": "twitter"
@@ -733,8 +737,12 @@
       "speakers": [
         {
           "name": "Julien Briault",
-          "photo": "https://lh3.googleusercontent.com/a-/AOh14GiRTQQrJ8Zy4T5n-ib23gO946fUeB486fwPFZmY=s96-c",
+          "photo": "https://media.licdn.com/dms/image/v2/D4E03AQFlK9s0p7o2-Q/profile-displayphoto-scale_400_400/B4EZujDmCtMMAg-/0/1767967187936?e=1796860800&v=beta&t=fGiUNo4qTYvXIkwRMHrYvYhD7ka-0Cp2CBXsBIY-Sa4",
           "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/julien-b-441539137/"
+            },
             {
               "url": "https://x.com/ju_hnny5",
               "label": "twitter"
@@ -1356,8 +1364,12 @@
       "speakers": [
         {
           "name": "Matthieu Vincent",
-          "photo": "https://live.staticflickr.com/65535/53687374608_14ea502f40_b.jpg",
+          "photo": "https://media.licdn.com/dms/image/v2/D4D03AQH5Ed_oM6Tefg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1678287968434?e=1796860800&v=beta&t=Za_22X4Msk0AKfFJr4573ZU6jigOsQuCHT5smLzWtFY",
           "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/matthieu-vincent-ab25064/"
+            },
             {
               "url": "https://x.com/yodamad03",
               "label": "twitter"

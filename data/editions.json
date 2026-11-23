@@ -17,6 +17,21 @@
       ]
     },
     {
+      "year": 2024,
+      "catalog": "data/catalog-2024.json",
+      "content": "content/2024",
+      "datesLabel": "8 NOVEMBRE",
+      "location": "PALAIS DES CONGRÈS DE BORDEAUX LAC",
+      "days": [
+        {
+          "id": "vendredi",
+          "label": "Vendredi",
+          "short": "8 nov.",
+          "date": "8 novembre"
+        }
+      ]
+    },
+    {
       "year": 2026,
       "catalog": "data/catalog.json",
       "content": "content",

@@ -1,0 +1,1930 @@
+{
+  "source": "https://bdxio.fr/2024/talks/",
+  "sessions": [
+    {
+      "id": "vendredi-665",
+      "officialId": "665",
+      "title": "☁️ 20 000 nuages sous les mers  ☁️",
+      "category": "Hors-piste",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/665",
+      "day": "vendredi",
+      "room": "non-renseignee",
+      "roomLabel": "Salle non renseignée",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Antoine Oili",
+          "photo": "https://media.licdn.com/dms/image/v2/C4D03AQFEgjigefkTWg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1635491279295?e=1796860800&v=beta&t=VkliwOjbUxKJtKUgGK2Gur85Qg2BmISnOIjxmrdfiJ8",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/antoine-oili/"
+            }
+          ]
+        },
+        {
+          "name": "Nicolas Bouron",
+          "photo": "https://media.licdn.com/dms/image/v2/D4E03AQFONfFq5DVDtw/profile-displayphoto-scale_400_400/B4EZx87jN9GgAg-/0/1771622516318?e=1796860800&v=beta&t=Xp2eCJYmYaeBRa6b-iyEiXfWi27yM9yM2W8Z84XfqZY",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/nbouron/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/nbouron"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/nbouron"
+            }
+          ]
+        }
+      ],
+      "status": "absent",
+      "noteFile": null,
+      "durationSource": "https://bdxio.fr/2024/talks/665"
+    },
+    {
+      "id": "vendredi-644",
+      "officialId": "644",
+      "title": "Accélérer sa transformation DevOps en 2025 avec Accelerate",
+      "category": "Cloud & DevSecOps",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/644",
+      "day": "vendredi",
+      "room": "amphi-b",
+      "roomLabel": "Amphi B",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Jean-Rémy Revy",
+          "photo": "https://lh3.googleusercontent.com/a/ACg8ocLkCK4_wiC-MLSCUL4AzXJR87DeHi6crJo6sP6CtRz6458=s288-c-no",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/jeanremyrevy"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/jrrevy"
+            },
+            {
+              "label": "site",
+              "url": "https://blog.ippon.fr/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/JeanRemyRevy"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-b/644.md",
+      "durationSource": "https://bdxio.fr/2024/talks/644"
+    },
+    {
+      "id": "vendredi-647",
+      "officialId": "647",
+      "title": "Alerte, tout brûle ! Comment gérer des incidents techniques",
+      "category": "Architecture & Méthodologies",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/647",
+      "day": "vendredi",
+      "room": "amphi-a",
+      "roomLabel": "Amphi A",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Alexis \"Horgix\" Chotard",
+          "photo": "https://avatars2.githubusercontent.com/u/4584397?v=4",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/alexis-horgix-chotard-a77a9863/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/Horgix"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/Horgix"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-a/647.md",
+      "durationSource": "https://bdxio.fr/2024/talks/647"
+    },
+    {
+      "id": "vendredi-641",
+      "officialId": "641",
+      "title": "Angular change de logo mais pas que.",
+      "category": "Frontend",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/641",
+      "day": "vendredi",
+      "room": "amphi-b",
+      "roomLabel": "Amphi B",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Florian Allainmat",
+          "photo": "https://media.licdn.com/dms/image/v2/C5603AQFCH9zKIn7m6g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1649754232072?e=1796860800&v=beta&t=kTQQw2iOkFqRG4RGR3SdQsy4aYcMFrl-9mWqBlkvP9A",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/florian-allainmat-8142aa89/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/f_allainmat"
+            }
+          ]
+        },
+        {
+          "name": "David Maurin",
+          "photo": "https://lh3.googleusercontent.com/a/ACg8ocIKDh31YBe0ED42nOXcDQfYvOSzgC-ieQOxax-lToyjo2w=s96-c",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/david-maurin-61466856/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/d_maurin"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-b/641.md",
+      "durationSource": "https://bdxio.fr/2024/talks/641"
+    },
+    {
+      "id": "vendredi-679",
+      "officialId": "679",
+      "title": "Cache 101 : Comprendre les stratégies clés avant de les appliquer.",
+      "category": "Backend",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/679",
+      "day": "vendredi",
+      "room": "amphi-b",
+      "roomLabel": "Amphi B",
+      "time": "",
+      "format": "Quickie - 15min",
+      "duration": 15,
+      "speakers": [
+        {
+          "name": "Robin Colombier",
+          "photo": "https://media.licdn.com/dms/image/v2/D4E03AQHKQ9res3hrHQ/profile-displayphoto-scale_400_400/B4EZ0kIuWVHYAg-/0/1774427764098?e=1796860800&v=beta&t=0AOg2h2alF8PzGYjioSHeHAqWnBVbvQk_KRt5lxs1is",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/robin-colombier-php/"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-b/679.md",
+      "durationSource": "https://bdxio.fr/2024/talks/679"
+    },
+    {
+      "id": "vendredi-653",
+      "officialId": "653",
+      "title": "Causalité et statistiques, un amour pas si impossible que ça.",
+      "category": "Big Data & I.A.",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/653",
+      "day": "vendredi",
+      "room": "salle-2",
+      "roomLabel": "Salle 2 (E1+E2)",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Denis Maurel",
+          "photo": "https://lh3.googleusercontent.com/a/ACg8ocIwDD1Krh0volCZwS0n6CupfuAN-CDdcbxNR4mpCk6w=s96-c",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/denismaurel/"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/Kahss"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/salle-2/653.md",
+      "durationSource": "https://bdxio.fr/2024/talks/653"
+    },
+    {
+      "id": "vendredi-659",
+      "officialId": "659",
+      "title": "CodeCarbon : Comment mesurer l’impact CO2 du Machine Learning?",
+      "category": "Big Data & I.A.",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/659",
+      "day": "vendredi",
+      "room": "salle-2",
+      "roomLabel": "Salle 2 (E1+E2)",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Amine Saboni",
+          "photo": "https://media.licdn.com/dms/image/v2/C4D03AQG1y0uK15QMPg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1625487303354?e=1796860800&v=beta&t=Qw2zDSP0h-kfSB4jQpFTSfIHn9q9drpzYz8EnYsbud8",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/amine-saboni/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/Tundjii"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/SaboniAmine"
+            }
+          ]
+        },
+        {
+          "name": "Inigo Imaz Chacon",
+          "photo": "https://media.licdn.com/dms/image/v2/D4D03AQFukon1xUi60w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1720347836332?e=1796860800&v=beta&t=OCeA5ZKLcLPPg8pMhtIBMvbn0bO9RzFhH3X-_kFRFGc",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/inigo-imaz-chacon/"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/salle-2/659.md",
+      "durationSource": "https://bdxio.fr/2024/talks/659"
+    },
+    {
+      "id": "vendredi-670",
+      "officialId": "670",
+      "title": "Comment nous avons transformé les Restos du Cœur en Cloud Provider",
+      "category": "Cloud & DevSecOps",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/670",
+      "day": "vendredi",
+      "room": "salle-3",
+      "roomLabel": "Salle 3 (H1+H2)",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Julien Briault",
+          "photo": "https://media.licdn.com/dms/image/v2/D4E03AQFlK9s0p7o2-Q/profile-displayphoto-scale_400_400/B4EZujDmCtMMAg-/0/1767967187936?e=1796860800&v=beta&t=fGiUNo4qTYvXIkwRMHrYvYhD7ka-0Cp2CBXsBIY-Sa4",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/julien-b-441539137/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/ju_hnny5"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/juhnny5"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/salle-3/670.md",
+      "durationSource": "https://bdxio.fr/2024/talks/670"
+    },
+    {
+      "id": "vendredi-692",
+      "officialId": "692",
+      "title": "Comment se projeter sur l’impact de nos décisions, nos produits, nos IAs ? Découvrez la roue des futurs.",
+      "category": "Hors-piste",
+      "level": "débutant",
+      "source": "https://bdxio.fr/2024/talks/692",
+      "day": "vendredi",
+      "room": "salle-2",
+      "roomLabel": "Salle 2 (E1+E2)",
+      "time": "",
+      "format": "",
+      "duration": null,
+      "speakers": [
+        {
+          "name": "Jonathan Litty",
+          "photo": "https://media.licdn.com/dms/image/v2/C4E03AQGrxYIiLsC6yA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1639562464639?e=1796860800&v=beta&t=mvjr7CyjxQ3MOgA4vmaR547k-t_IidsgStXHSjYq3g4",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/jlitty/"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/salle-2/692.md"
+    },
+    {
+      "id": "vendredi-661",
+      "officialId": "661",
+      "title": "Comment utiliser le NoCode comme un microservice dans une architecture logicielle complexe",
+      "category": "Architecture & Méthodologies",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/661",
+      "day": "vendredi",
+      "room": "salle-2",
+      "roomLabel": "Salle 2 (E1+E2)",
+      "time": "",
+      "format": "Quickie - 15min",
+      "duration": 15,
+      "speakers": [
+        {
+          "name": "Benjamin Buléon",
+          "photo": "https://media.licdn.com/dms/image/v2/D4E03AQFvoRWR8pbMGg/profile-displayphoto-scale_400_400/B4EZgzKgobGwAk-/0/1753205052003?e=1796860800&v=beta&t=ouPc9UgZR7eAvHUwSYOI9d8nrgI3jkkHvu6ZMTtFL04",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/buleonbenjamin/"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/salle-2/661.md",
+      "durationSource": "https://bdxio.fr/2024/talks/661"
+    },
+    {
+      "id": "vendredi-669",
+      "officialId": "669",
+      "title": "Debugguez votre salaire ! Mes stratégies gagnantes pour réussir sa négociation salariale",
+      "category": "Hors-piste",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/669",
+      "day": "vendredi",
+      "room": "amphi-c",
+      "roomLabel": "Amphi C",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Shirley Almosni Chiche",
+          "photo": "/_ipx/s_24x24/images/icons/twitter.svg",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/shirley-almosni-chiche/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/ShirleyAlmCh"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-c/669.md",
+      "durationSource": "https://bdxio.fr/2024/talks/669"
+    },
+    {
+      "id": "vendredi-673",
+      "officialId": "673",
+      "title": "Découvrir Pulumi par la pratique",
+      "category": "Cloud & DevSecOps",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/673",
+      "day": "vendredi",
+      "room": "non-renseignee",
+      "roomLabel": "Salle non renseignée",
+      "time": "",
+      "format": "Hands on lab - 100min",
+      "duration": 100,
+      "speakers": [
+        {
+          "name": "Alexandre Nédélec",
+          "photo": "https://avatars0.githubusercontent.com/u/15186176?v=4",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/alexandre-n%C3%A9d%C3%A9lec-24565549"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/TechWatching"
+            },
+            {
+              "label": "site",
+              "url": "https://techwatching.dev/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/TechWatching"
+            }
+          ]
+        }
+      ],
+      "status": "absent",
+      "noteFile": null,
+      "durationSource": "https://bdxio.fr/2024/talks/673"
+    },
+    {
+      "id": "vendredi-674",
+      "officialId": "674",
+      "title": "Découvrons ensemble la relève de l'observabilité avec les logs et traces : Quickwit",
+      "category": "Cloud & DevSecOps",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/674",
+      "day": "vendredi",
+      "room": "amphi-a",
+      "roomLabel": "Amphi A",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Idriss Neumann",
+          "photo": "https://media.licdn.com/dms/image/v2/D4E03AQEmYUtdbf0K4g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1697670491274?e=1796860800&v=beta&t=XGWTzzg50Kgosl04fGBsY96G0v--scfuBWZDwzrJzxw",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/idrissneumann/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/idriss_neumann"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/idrissneumann"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-a/674.md",
+      "durationSource": "https://bdxio.fr/2024/talks/674"
+    },
+    {
+      "id": "vendredi-689",
+      "officialId": "689",
+      "title": "Delta Lake : le recalcul sans fracas ni tracas",
+      "category": "Big Data & I.A.",
+      "level": "",
+      "source": "https://bdxio.fr/2024/talks/689",
+      "day": "vendredi",
+      "room": "salle-3",
+      "roomLabel": "Salle 3 (H1+H2)",
+      "time": "",
+      "format": "Quickie - 15min",
+      "duration": 15,
+      "speakers": [
+        {
+          "name": "Julie Galia",
+          "photo": "https://media.licdn.com/dms/image/v2/C4D03AQHapt-fuZhB_g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1614777299005?e=1796860800&v=beta&t=K0xMwDdMBRaYVK3vZ20VGslXp9VyAIM_Tjda5cz9adM",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/julie-galia-7a047647/"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/salle-3/689.md",
+      "durationSource": "https://bdxio.fr/2024/talks/689"
+    },
+    {
+      "id": "vendredi-637",
+      "officialId": "637",
+      "title": "D'officier de l'Armée de Terre à développeur : RETEX d'une autiste en quête d'inclusion",
+      "category": "Hors-piste",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/637",
+      "day": "vendredi",
+      "room": "amphi-a",
+      "roomLabel": "Amphi A",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Véronique Sermage",
+          "photo": "https://media.licdn.com/dms/image/v2/D4E03AQFkANFx4uKGNw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1697797813001?e=1796860800&v=beta&t=S61tAsG0d2gz7CsKGpDEBUWFdqFdbYJlOhF27i0opbo",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/veroniquesermage/"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-a/637.md",
+      "durationSource": "https://bdxio.fr/2024/talks/637"
+    },
+    {
+      "id": "vendredi-655",
+      "officialId": "655",
+      "title": "/e/OS, mon smartphone Android sans Google",
+      "category": "Hors-piste",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/655",
+      "day": "vendredi",
+      "room": "amphi-b",
+      "roomLabel": "Amphi B",
+      "time": "",
+      "format": "Quickie - 15min",
+      "duration": 15,
+      "speakers": [
+        {
+          "name": "Benoît Masson",
+          "photo": "https://lh6.googleusercontent.com/-lDy6h3bK4HM/AAAAAAAAAAI/AAAAAAAAAVw/Glz_K6R52y4/photo.jpg",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/benoitmasson"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/benoitmasson"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-b/655.md",
+      "durationSource": "https://bdxio.fr/2024/talks/655"
+    },
+    {
+      "id": "vendredi-684",
+      "officialId": "684",
+      "title": "Game over pour le design",
+      "category": "Produit & Design",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/684",
+      "day": "vendredi",
+      "room": "salle-3",
+      "roomLabel": "Salle 3 (H1+H2)",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Jules Mahé",
+          "photo": "https://media.licdn.com/dms/image/v2/D4E35AQFi5xUYiveHfg/profile-framedphoto-shrink_400_400/B4EZffv0_wHIAg-/0/1751805546789?e=1796036400&v=beta&t=59MOlO0CgeVWYnl0gf2KbXwWw_ReuZ5LkccsH9Glb-g",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/jules-mah%C3%A9/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/julesmahe"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/salle-3/684.md",
+      "durationSource": "https://bdxio.fr/2024/talks/684"
+    },
+    {
+      "id": "vendredi-636",
+      "officialId": "636",
+      "title": "GraphQL at Scale",
+      "category": "Backend",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/636",
+      "day": "vendredi",
+      "room": "amphi-c",
+      "roomLabel": "Amphi C",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Anthony Giniers",
+          "photo": "https://gravatar.com/avatar/0b3f7f243fe7e0e5c45f69f7c8cbcad66d87ce4608b13acbeb85935b527a7de1?size=512",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/aginiers/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/aginiers"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/antogyn"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-c/636.md",
+      "durationSource": "https://bdxio.fr/2024/talks/636"
+    },
+    {
+      "id": "vendredi-690",
+      "officialId": "690",
+      "title": "Help ! Ma calculatrice Python crame plus de ressources qu'Apollo 6 : est-ce raisonnable ?",
+      "category": "Backend",
+      "level": "",
+      "source": "https://bdxio.fr/2024/talks/690",
+      "day": "vendredi",
+      "room": "salle-3",
+      "roomLabel": "Salle 3 (H1+H2)",
+      "time": "",
+      "format": "Quickie - 15min",
+      "duration": 15,
+      "speakers": [
+        {
+          "name": "Artem Valiulin",
+          "photo": "https://media.licdn.com/dms/image/v2/C4E03AQElw_mYbrNFBA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1656598972115?e=1796860800&v=beta&t=8s3mEjmfgYQG9JJ1BXuE_NTkLmxf1lazidYtgi36itY",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/artem-valiulin/"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/salle-3/690.md",
+      "durationSource": "https://bdxio.fr/2024/talks/690"
+    },
+    {
+      "id": "vendredi-639",
+      "officialId": "639",
+      "title": "Highway to fail, ou l'histoire d'un échec prévisible",
+      "category": "Hors-piste",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/639",
+      "day": "vendredi",
+      "room": "salle-3",
+      "roomLabel": "Salle 3 (H1+H2)",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Céline Louvet",
+          "photo": "https://storage.googleapis.com/celinelouvet-cv.appspot.com/Public/square.png",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/celinelouvet/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/celine_louvet"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/celinelouvet"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/salle-3/639.md",
+      "durationSource": "https://bdxio.fr/2024/talks/639"
+    },
+    {
+      "id": "vendredi-648",
+      "officialId": "648",
+      "title": "HTMX, ou le retour de l'AJAX dans le développement Web",
+      "category": "Frontend",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/648",
+      "day": "vendredi",
+      "room": "amphi-c",
+      "roomLabel": "Amphi C",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Stéphane Trebel",
+          "photo": "https://media.licdn.com/dms/image/v2/D4E03AQGfhUBRz9vBMQ/profile-displayphoto-scale_400_400/B4EZuPAqALIQAg-/0/1767630873332?e=1796860800&v=beta&t=20XHFZsZn8quEtIjR5-KnMoJlszoTuI3Pjoz3CGA1kU",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/stephane-trebel/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/stephanetrebel"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/StephaneTrebel"
+            },
+            {
+              "label": "site",
+              "url": "https://www.youtube.com/@permacodeur"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-c/648.md",
+      "durationSource": "https://bdxio.fr/2024/talks/648"
+    },
+    {
+      "id": "vendredi-651",
+      "officialId": "651",
+      "title": "IA-404 : Explication not found",
+      "category": "Big Data & I.A.",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/651",
+      "day": "vendredi",
+      "room": "amphi-b",
+      "roomLabel": "Amphi B",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Cécile Hannotte",
+          "photo": "https://storage.googleapis.com/imagina-prod-storage-fr/uploads/page/cropped/thumbnail/200x200-64d2a421544f5c2aa78dcc1416d360cd5cac5804.png",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/cecile-hannotte/"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/channotte1"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-b/651.md",
+      "durationSource": "https://bdxio.fr/2024/talks/651"
+    },
+    {
+      "id": "vendredi-671",
+      "officialId": "671",
+      "title": "IA ou IA pas ? Nous l’IA qui remplace les devs on y croit pas (encore) !",
+      "category": "Big Data & I.A.",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/671",
+      "day": "vendredi",
+      "room": "non-renseignee",
+      "roomLabel": "Salle non renseignée",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Matthieu Vincent",
+          "photo": "https://media.licdn.com/dms/image/v2/D4D03AQH5Ed_oM6Tefg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1678287968434?e=1796860800&v=beta&t=Za_22X4Msk0AKfFJr4573ZU6jigOsQuCHT5smLzWtFY",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/matthieu-vincent-ab25064/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/yodamad03"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/yodamad"
+            },
+            {
+              "label": "site",
+              "url": "https://bsky.app/profile/yodamad03.bsky.social"
+            }
+          ]
+        },
+        {
+          "name": "Yann Gloriau",
+          "photo": "https://media.licdn.com/dms/image/v2/C4E03AQGmxFHdjAfd0w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517759219337?e=1796860800&v=beta&t=frTDaEYt1XZxC4t65t-l5LBArvOItRHhFnerei-GwGY",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/yann-gloriau-4b17b75/"
+            }
+          ]
+        }
+      ],
+      "status": "absent",
+      "noteFile": null,
+      "durationSource": "https://bdxio.fr/2024/talks/671"
+    },
+    {
+      "id": "vendredi-663",
+      "officialId": "663",
+      "title": "Implémenter l'IA en respectant la vie privée, impossible ?",
+      "category": "Frontend",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/663",
+      "day": "vendredi",
+      "room": "non-renseignee",
+      "roomLabel": "Salle non renseignée",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Nicolas Hoffmann",
+          "photo": "https://storage.googleapis.com/imagina-prod-storage-fr/uploads/page/cropped/thumbnail/200x200-11da631de42987495bc43f082564a8fb82c5173a.png",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/nicolas-hoffmann-b22aaa43/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/Nico3333fr"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/Nico3333fr"
+            }
+          ]
+        }
+      ],
+      "status": "absent",
+      "noteFile": null,
+      "durationSource": "https://bdxio.fr/2024/talks/663"
+    },
+    {
+      "id": "vendredi-642",
+      "officialId": "642",
+      "title": "Implémenter un modèle de Machine Learning (apprentissage automatique) de A à Z",
+      "category": "Big Data & I.A.",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/642",
+      "day": "vendredi",
+      "room": "non-renseignee",
+      "roomLabel": "Salle non renseignée",
+      "time": "",
+      "format": "Hands on lab - 100min",
+      "duration": 100,
+      "speakers": [
+        {
+          "name": "Léna Ndiaye",
+          "photo": "https://media.licdn.com/dms/image/v2/C4E03AQEHjtobHv9q2Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1615311470302?e=1796860800&v=beta&t=oPe6048DHncHtVPWAMTjWhCyp_WZRzIvQBtdcGUdiGE",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/lena-ndiaye-259509a9/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/AnnetLenaNdiaye"
+            }
+          ]
+        },
+        {
+          "name": "Ralph Zogo",
+          "photo": "https://media.licdn.com/dms/image/v2/D4E03AQEKp2Sycx-KiA/profile-displayphoto-scale_400_400/B4EZ0LaAxxHUAg-/0/1774012866295?e=1796860800&v=beta&t=9JUPAKeVu2lw-VisYKuRNkwOqbsInh39evjLwkadG98",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/ralph-zogo/"
+            }
+          ]
+        }
+      ],
+      "status": "absent",
+      "noteFile": null,
+      "durationSource": "https://bdxio.fr/2024/talks/642"
+    },
+    {
+      "id": "vendredi-652",
+      "officialId": "652",
+      "title": "Je malmène ta prod en direct avec 15 failles de sécu",
+      "category": "Backend",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/652",
+      "day": "vendredi",
+      "room": "amphi-a",
+      "roomLabel": "Amphi A",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Gaetan Eleouet",
+          "photo": "https://blog.egaetan.me/extern/photo.png",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/gaetan-eleouet/"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/geleouet"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/egaetan"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-a/652.md",
+      "durationSource": "https://bdxio.fr/2024/talks/652"
+    },
+    {
+      "id": "vendredi-677",
+      "officialId": "677",
+      "title": "Karpenter, le futur de la gestion des noeuds Kubernetes",
+      "category": "Cloud & DevSecOps",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/677",
+      "day": "vendredi",
+      "room": "salle-2",
+      "roomLabel": "Salle 2 (E1+E2)",
+      "time": "",
+      "format": "Quickie - 15min",
+      "duration": 15,
+      "speakers": [
+        {
+          "name": "Mathieu Corbin",
+          "photo": "https://media.licdn.com/dms/image/v2/D4D03AQHJ2iZcehl3jQ/profile-displayphoto-scale_400_400/B4DZgaI07DGgAk-/0/1752785179711?e=1796860800&v=beta&t=R8ionUmPkf3B4mmp6BJwc8sWgx8iUB-5MZaMNhpSaKM",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/mathieu-corbin-251903b7/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/_mcorbin"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/mcorbin"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/salle-2/677.md",
+      "durationSource": "https://bdxio.fr/2024/talks/677"
+    },
+    {
+      "id": "vendredi-657",
+      "officialId": "657",
+      "title": "L'art de la précision : stratégies et défis des estimations en développement",
+      "category": "Hors-piste",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/657",
+      "day": "vendredi",
+      "room": "non-renseignee",
+      "roomLabel": "Salle non renseignée",
+      "time": "",
+      "format": "Quickie - 15min",
+      "duration": 15,
+      "speakers": [
+        {
+          "name": "Olga Yasnopolskaya",
+          "photo": "https://media.licdn.com/dms/image/v2/D4E03AQFfe0_HZPgmuA/profile-displayphoto-scale_400_400/B4EZ_cnz2AIAAg-/0/1786112853372?e=1796860800&v=beta&t=CRkJ0k6miT_9EH7JyozRtX-XrFTIuwKNA97GrB5nlkY",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/olga-yasnopolskaya/"
+            }
+          ]
+        }
+      ],
+      "status": "absent",
+      "noteFile": null,
+      "durationSource": "https://bdxio.fr/2024/talks/657"
+    },
+    {
+      "id": "vendredi-650",
+      "officialId": "650",
+      "title": "Le coût du Mob Programming",
+      "category": "Architecture & Méthodologies",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/650",
+      "day": "vendredi",
+      "room": "amphi-b",
+      "roomLabel": "Amphi B",
+      "time": "",
+      "format": "Quickie - 15min",
+      "duration": 15,
+      "speakers": [
+        {
+          "name": "Hadrien Mens-Pellen",
+          "photo": "https://hadrienmp.onrender.com/images/Profil.webp",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/hadrien-mens-pellen-39071231/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/hadrienmp"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/hadrienmp"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-b/650.md",
+      "durationSource": "https://bdxio.fr/2024/talks/650"
+    },
+    {
+      "id": "vendredi-672",
+      "officialId": "672",
+      "title": "Le futur du design : un monde où le système prime sur l'utilisateur",
+      "category": "Produit & Design",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/672",
+      "day": "vendredi",
+      "room": "non-renseignee",
+      "roomLabel": "Salle non renseignée",
+      "time": "",
+      "format": "Quickie - 15min",
+      "duration": 15,
+      "speakers": [
+        {
+          "name": "Clémence Piteau",
+          "photo": "https://storage.googleapis.com/imagina-prod-storage-fr/uploads/page/cropped/thumbnail/200x200-af4ebaf48d4ead40e138088594182af5dbef7574.png",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/clemencepiteau/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/clem_topi"
+            }
+          ]
+        }
+      ],
+      "status": "absent",
+      "noteFile": null,
+      "durationSource": "https://bdxio.fr/2024/talks/672"
+    },
+    {
+      "id": "vendredi-680",
+      "officialId": "680",
+      "title": "L'envers du décor d'un passage douloureux à Vue 3",
+      "category": "Frontend",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/680",
+      "day": "vendredi",
+      "room": "amphi-c",
+      "roomLabel": "Amphi C",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Guillaume Amat",
+          "photo": "https://gravatar.com/avatar/cd8e82bcc5a1057d91d763e0048bb07e?size=10244&cache=1722845811789",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/guillaume-amat-39a234100/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/guillaume_amat"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/GuillaumeAmat"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-c/680.md",
+      "durationSource": "https://bdxio.fr/2024/talks/680"
+    },
+    {
+      "id": "vendredi-660",
+      "officialId": "660",
+      "title": "Les 20 minutes Typescript les plus rentables de votre vie !",
+      "category": "Frontend",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/660",
+      "day": "vendredi",
+      "room": "amphi-a",
+      "roomLabel": "Amphi A",
+      "time": "",
+      "format": "Quickie - 15min",
+      "duration": 15,
+      "speakers": [
+        {
+          "name": "Aurélien Loyer",
+          "photo": "https://lh4.googleusercontent.com/-OS4193dS6_8/AAAAAAAAAAI/AAAAAAAAOew/LefnCPbOn5o/photo.jpg",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/aurelien-loyer/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/AurelienLoyer"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/AurelienLoyer"
+            }
+          ]
+        },
+        {
+          "name": "Delphin Aubin",
+          "photo": "https://delphinaubin.github.io/resume/delphin-black-bg-660x660.png",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/%E2%AD%90%EF%B8%8F-delphin-aubin-3858a243"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/delphinaubin"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/delphinaubin"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-a/660.md",
+      "durationSource": "https://bdxio.fr/2024/talks/660"
+    },
+    {
+      "id": "vendredi-683",
+      "officialId": "683",
+      "title": "Les histoires d’A. finissent pas si mal : Offboarding ou la fin de la relation entre un client et une marque",
+      "category": "Produit & Design",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/683",
+      "day": "vendredi",
+      "room": "non-renseignee",
+      "roomLabel": "Salle non renseignée",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Sofia Krari",
+          "photo": "https://media.licdn.com/dms/image/v2/D4E03AQE6wBsHqPdHCQ/profile-displayphoto-shrink_400_400/B4EZObEriwH0Ag-/0/1733473516200?e=1796860800&v=beta&t=xSkARihml57zilKNY9qD_b_YsWh2SIaSzJUcLHwSah8",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/sofia-krari-02361143/"
+            }
+          ]
+        }
+      ],
+      "status": "absent",
+      "noteFile": null,
+      "durationSource": "https://bdxio.fr/2024/talks/683"
+    },
+    {
+      "id": "vendredi-649",
+      "officialId": "649",
+      "title": "L’IA-assistance pour le développeur : symbiose ou substitution ?",
+      "category": "Hors-piste",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/649",
+      "day": "vendredi",
+      "room": "amphi-c",
+      "roomLabel": "Amphi C",
+      "time": "",
+      "format": "Quickie - 15min",
+      "duration": 15,
+      "speakers": [
+        {
+          "name": "Faiçal Oudbib",
+          "photo": "https://media.licdn.com/dms/image/v2/D4D03AQF9UWXsi7kcrA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724404984032?e=1796860800&v=beta&t=_EAK-XiT3A8NHRChL3Yq1fb_wjNJ5P1H1SK-SrWuzW4",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/faical-o-24ab9a137/"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/Akheloes?tab=repositories"
+            }
+          ]
+        },
+        {
+          "name": "Silvio Vasconcelos",
+          "photo": "https://media.licdn.com/dms/image/v2/C5603AQF7whonnEgpAw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1527606266830?e=1796860800&v=beta&t=HSHzRoVkjwUUCOlc1zYIDF5f7H0laxCrPs1PSmf9oD4",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/silvio-vasconcelos-b6441792/"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/Akheloes"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-c/649.md",
+      "durationSource": "https://bdxio.fr/2024/talks/649"
+    },
+    {
+      "id": "vendredi-668",
+      "officialId": "668",
+      "title": "L'IA Éco-Responsable : Utopie Marketing ou Réalité ?",
+      "category": "Big Data & I.A.",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/668",
+      "day": "vendredi",
+      "room": "amphi-c",
+      "roomLabel": "Amphi C",
+      "time": "",
+      "format": "Quickie - 15min",
+      "duration": 15,
+      "speakers": [
+        {
+          "name": "Zakaria Ournani",
+          "photo": "https://media.licdn.com/dms/image/v2/C4E03AQEm-NofRgniIw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516680192008?e=1796860800&v=beta&t=xSea_izJsyooi463-kz_XruHLr2oOv-IA167t15k_iY",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/zakaria-ournani/"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-c/668.md",
+      "durationSource": "https://bdxio.fr/2024/talks/668"
+    },
+    {
+      "id": "vendredi-681",
+      "officialId": "681",
+      "title": "L’IA et le handicap : progrès ou exclusion ?",
+      "category": "Big Data & I.A.",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/681",
+      "day": "vendredi",
+      "room": "salle-2",
+      "roomLabel": "Salle 2 (E1+E2)",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Thanh Lan Doublier",
+          "photo": "https://zupimages.net/up/23/23/unye.jpeg",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/thanhlandoublier/"
+            }
+          ]
+        },
+        {
+          "name": "Emmanuelle Aboaf",
+          "photo": "https://lh3.googleusercontent.com/a-/AOh14GgwiE4A4acIJAZk6f-90gF6CawNDjo6arOeTZr2zQ=s96-c",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/emmanuelle-aboaf"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/emma11y"
+            },
+            {
+              "label": "site",
+              "url": "https://emmanuelle-aboaf.netlify.app/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/eaboaf_"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/salle-2/681.md",
+      "durationSource": "https://bdxio.fr/2024/talks/681"
+    },
+    {
+      "id": "vendredi-675",
+      "officialId": "675",
+      "title": "L’IA, la nouvelle fracture !",
+      "category": "Big Data & I.A.",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/675",
+      "day": "vendredi",
+      "room": "amphi-c",
+      "roomLabel": "Amphi C",
+      "time": "",
+      "format": "Quickie - 15min",
+      "duration": 15,
+      "speakers": [
+        {
+          "name": "Noémie M. Rivière",
+          "photo": "https://pbs.twimg.com/profile_images/1942683738564890624/XdB7Qm04_400x400.jpg",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/noemiemelidariviere/"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-c/675.md",
+      "durationSource": "https://bdxio.fr/2024/talks/675"
+    },
+    {
+      "id": "vendredi-678",
+      "officialId": "678",
+      "title": "Microservices Kotlin Benchmark : coroutine, virtual thread, grpc, http, ... le match !",
+      "category": "Backend",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/678",
+      "day": "vendredi",
+      "room": "salle-1",
+      "roomLabel": "Salle 1 (F1+F2)",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Xavier Hanin",
+          "photo": "https://avatars.githubusercontent.com/u/553139?v=4",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/xavier-hanin-4786432/"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/xhanin"
+            }
+          ]
+        }
+      ],
+      "status": "partial",
+      "noteFile": "vendredi/salle-1/678.md",
+      "durationSource": "https://bdxio.fr/2024/talks/678"
+    },
+    {
+      "id": "vendredi-638",
+      "officialId": "638",
+      "title": "Parlons de Bruno",
+      "category": "Backend",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/638",
+      "day": "vendredi",
+      "room": "amphi-a",
+      "roomLabel": "Amphi A",
+      "time": "",
+      "format": "Quickie - 15min",
+      "duration": 15,
+      "speakers": [
+        {
+          "name": "Florian Garcia",
+          "photo": "https://media.licdn.com/dms/image/v2/D4E03AQEifOBLF8HBGw/profile-displayphoto-scale_400_400/B4EZqDQkHNHoAg-/0/1763138750767?e=1796860800&v=beta&t=7WW7lDNn7vw_rOroWrtnp1ujtdrIXWhp_ggKS5lGiyg",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/garciaflorian/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/im_flog"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/ImFlog"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-a/638.md",
+      "durationSource": "https://bdxio.fr/2024/talks/638"
+    },
+    {
+      "id": "vendredi-645",
+      "officialId": "645",
+      "title": "Partagez vos composants UI pour Android et iOS et visualisez les sur une simple page WEB ! 🪄",
+      "category": "Frontend",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/645",
+      "day": "vendredi",
+      "room": "salle-3",
+      "roomLabel": "Salle 3 (H1+H2)",
+      "time": "",
+      "format": "Quickie - 15min",
+      "duration": 15,
+      "speakers": [
+        {
+          "name": "Jonathan Lagneaux",
+          "photo": "https://media.licdn.com/dms/image/v2/C4D03AQGvHP1vyPS78A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1634329970910?e=1796860800&v=beta&t=O2w3J7Km9Toj94NSNrZ_Hh-JctmjovYy-OnX3ZVCKeU",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/jonathan-lagneaux/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/Gosunet"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/Gosunet"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/salle-3/645.md",
+      "durationSource": "https://bdxio.fr/2024/talks/645"
+    },
+    {
+      "id": "vendredi-640",
+      "officialId": "640",
+      "title": "Pull Request Professionnelle : Comment Promouvoir son travail en interne",
+      "category": "Hors-piste",
+      "level": "N/A",
+      "source": "https://bdxio.fr/2024/talks/640",
+      "day": "vendredi",
+      "room": "amphi-a",
+      "roomLabel": "Amphi A",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Vanessa Perillat",
+          "photo": "https://media.licdn.com/dms/image/v2/D4E03AQEJbImza93F0A/profile-displayphoto-scale_400_400/B4EZoVASknKcAg-/0/1761288989709?e=1796860800&v=beta&t=eFOeO9XTfbf5OpdcOZAvwey46DZ_YTKzOzLuQqa0Ndc",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/vanessa-perillat/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/vanessaperillat"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-a/640.md",
+      "durationSource": "https://bdxio.fr/2024/talks/640"
+    },
+    {
+      "id": "vendredi-676",
+      "officialId": "676",
+      "title": "Really inaccessible",
+      "category": "Frontend",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/676",
+      "day": "vendredi",
+      "room": "non-renseignee",
+      "roomLabel": "Salle non renseignée",
+      "time": "",
+      "format": "Hands on lab - 100min",
+      "duration": 100,
+      "speakers": [
+        {
+          "name": "Stanley Servical",
+          "photo": "https://sessionize.com/image/1039-400o400o2-DMhoYdSRNTBGtVTfnR1h7T.png",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/stanley-servical/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/2setech"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/stanlee974"
+            }
+          ]
+        },
+        {
+          "name": "Louis Fredice Njako Molom",
+          "photo": "https://avatars.githubusercontent.com/u/131726886?v=4",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/fr-dice/"
+            }
+          ]
+        }
+      ],
+      "status": "absent",
+      "noteFile": null,
+      "durationSource": "https://bdxio.fr/2024/talks/676"
+    },
+    {
+      "id": "vendredi-666",
+      "officialId": "666",
+      "title": "Revolutionizing Smart Device Interfaces with Flutter: Any Screen, Anywhere",
+      "category": "Frontend",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/666",
+      "day": "vendredi",
+      "room": "non-renseignee",
+      "roomLabel": "Salle non renseignée",
+      "time": "",
+      "format": "Quickie - 15min",
+      "duration": 15,
+      "speakers": [
+        {
+          "name": "Enzo Conty",
+          "photo": "https://media.licdn.com/dms/image/v2/D4D03AQGL53WsfFiinQ/profile-displayphoto-scale_400_400/B4DZeM8TBHHAAg-/0/1750416326454?e=1796860800&v=beta&t=Ux04VoUIRO7ByrLpa_PoadYdH1mCTDMnAuLDuNdVnEU",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/enzoconty/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/EnzoConty"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/BLKKKBVSIK"
+            }
+          ]
+        }
+      ],
+      "status": "absent",
+      "noteFile": null,
+      "durationSource": "https://bdxio.fr/2024/talks/666"
+    },
+    {
+      "id": "vendredi-643",
+      "officialId": "643",
+      "title": "Rex scale-up: les impacts du passage à l'échelle",
+      "category": "Architecture & Méthodologies",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/643",
+      "day": "vendredi",
+      "room": "salle-2",
+      "roomLabel": "Salle 2 (E1+E2)",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Charles Bouttaz",
+          "photo": "https://avatars3.githubusercontent.com/u/2411582?v=4",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/charles-bouttaz/"
+            }
+          ]
+        },
+        {
+          "name": "Guillaume Ehret",
+          "photo": "https://avatars1.githubusercontent.com/u/1812822?v=4",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/guillaume-ehret/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/guillaumeehret"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/javamind"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/salle-2/643.md",
+      "durationSource": "https://bdxio.fr/2024/talks/643"
+    },
+    {
+      "id": "vendredi-664",
+      "officialId": "664",
+      "title": "Secrets faciles dans Kubernetes : parce que je le Vault bien",
+      "category": "Cloud & DevSecOps",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/664",
+      "day": "vendredi",
+      "room": "amphi-b",
+      "roomLabel": "Amphi B",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Alexis Fala",
+          "photo": "https://lh3.googleusercontent.com/a/ACg8ocK9-u8LGsEw3CTgR0yFEacLenUntnAXawUhy-FXbATcE_xn8oeK=s288-c-no",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/alexis-fala/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/ElFamosoKwak"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-b/664.md",
+      "durationSource": "https://bdxio.fr/2024/talks/664"
+    },
+    {
+      "id": "vendredi-656",
+      "officialId": "656",
+      "title": "Sécurité automatisée: Regardez vos failles en face.",
+      "category": "Cloud & DevSecOps",
+      "level": "Intermédiaire",
+      "source": "https://bdxio.fr/2024/talks/656",
+      "day": "vendredi",
+      "room": "amphi-b",
+      "roomLabel": "Amphi B",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Marine Du Mesnil",
+          "photo": "https://tse4.mm.bing.net/th?id=OIP.TEQcyIpX4VXoltc1xVYe0QAAAA&pid=Api",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/marine-du-mesnil/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/marine_mesnil"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/marine-mb"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-b/656.md",
+      "durationSource": "https://bdxio.fr/2024/talks/656"
+    },
+    {
+      "id": "vendredi-691",
+      "officialId": "691",
+      "title": "Shaders : Comment créer des effets hallucinants sur son site web",
+      "category": "Frontend",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/691",
+      "day": "vendredi",
+      "room": "salle-3",
+      "roomLabel": "Salle 3 (H1+H2)",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Simon Bédard",
+          "photo": "/_ipx/s_24x24/images/icons/github.svg",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/simonbedardprog"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/JavaKhanStudio"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/salle-3/691.md",
+      "durationSource": "https://bdxio.fr/2024/talks/691"
+    },
+    {
+      "id": "vendredi-682",
+      "officialId": "682",
+      "title": "🐋 Simplifiez la conteneurisation de vos idées !",
+      "category": "Cloud & DevSecOps",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/682",
+      "day": "vendredi",
+      "room": "amphi-a",
+      "roomLabel": "Amphi A",
+      "time": "",
+      "format": "Quickie - 15min",
+      "duration": 15,
+      "speakers": [
+        {
+          "name": "Thomas Da Rocha",
+          "photo": "https://avatars.githubusercontent.com/u/8969556?v=4",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/thomas-da-rocha-57211170/"
+            },
+            {
+              "label": "twitter",
+              "url": "https://x.com/taorepoara"
+            },
+            {
+              "label": "github",
+              "url": "https://github.com/taorepoara"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-a/682.md",
+      "durationSource": "https://bdxio.fr/2024/talks/682"
+    },
+    {
+      "id": "vendredi-646",
+      "officialId": "646",
+      "title": "Un ChatGPT sur vos propres données : comment ça marche ?",
+      "category": "Big Data & I.A.",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/646",
+      "day": "vendredi",
+      "room": "amphi-c",
+      "roomLabel": "Amphi C",
+      "time": "",
+      "format": "Conférence - 45min",
+      "duration": 45,
+      "speakers": [
+        {
+          "name": "Hugo Vassard",
+          "photo": "https://storage.googleapis.com/imagina-prod-storage-fr/uploads/page/cropped/thumbnail/200x200-bd9de5d53fd3c506b6f564adf874c0b360ac534d.png",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/hugo-vassard-820610173/"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/amphi-c/646.md",
+      "durationSource": "https://bdxio.fr/2024/talks/646"
+    },
+    {
+      "id": "vendredi-658",
+      "officialId": "658",
+      "title": "Un site web c’est comme Disneyland",
+      "category": "Produit & Design",
+      "level": "Débutant",
+      "source": "https://bdxio.fr/2024/talks/658",
+      "day": "vendredi",
+      "room": "salle-2",
+      "roomLabel": "Salle 2 (E1+E2)",
+      "time": "",
+      "format": "Quickie - 15min",
+      "duration": 15,
+      "speakers": [
+        {
+          "name": "Emma Quinio",
+          "photo": "https://storage.googleapis.com/imagina-prod-storage-fr/uploads/page/cropped/thumbnail/200x200-79d8b267624ae52ba1c8d262e0cc8c9c24e2f511.png",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/emma-quinio/"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/salle-2/658.md",
+      "durationSource": "https://bdxio.fr/2024/talks/658"
+    },
+    {
+      "id": "vendredi-douceur",
+      "officialId": "douceur",
+      "title": "La douceur est-elle un avantage dans ce monde de brutes ?",
+      "category": "Hors-piste",
+      "level": "",
+      "source": "https://dev.to/onepoint/bdx-io-2024-vu-par-nos-experts-onepoint-5546",
+      "day": "vendredi",
+      "time": "",
+      "duration": null,
+      "format": "",
+      "speakers": [
+        {
+          "name": "Anaïs Huet",
+          "photo": "https://bdxio.fr/images/speakers/anais-huet.jpg",
+          "links": [
+            {
+              "url": "https://www.linkedin.com/in/anais-huet-coach-agile",
+              "label": "linkedin"
+            }
+          ]
+        }
+      ],
+      "status": "complete",
+      "noteFile": "vendredi/salle-3/douceur.md",
+      "room": "salle-3",
+      "roomLabel": "Salle 3 (H1+H2)"
+    },
+    {
+      "officialId": "opening",
+      "title": "LLMs, entre fantasme et réalité – le point de vue d’une dév passée de l’autre côté",
+      "source": "https://blog.ippon.fr/2024/11/22/bdx-i-o-2024-innover-et-reflechir-aux-enjeux-sociaux-des-technologies-de-demain-1-2/",
+      "speakers": [
+        {
+          "name": "Marie-Alice Blete",
+          "photo": "https://media.licdn.com/dms/image/v2/D4E03AQGFm7zHNdOJVA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1692276195109?e=1796860800&v=beta&t=eB925HjjFTfnez07lq9H-9-sF3TkV2PAqfDf8HfzVec",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/mblete/"
+            }
+          ]
+        }
+      ],
+      "id": "vendredi-opening",
+      "category": "Hors-piste",
+      "level": "",
+      "day": "vendredi",
+      "time": "",
+      "format": "Keynote",
+      "duration": null,
+      "room": "amphi-a",
+      "roomLabel": "Amphi A",
+      "status": "complete",
+      "noteFile": "vendredi/amphi-a/opening.md"
+    },
+    {
+      "officialId": "closing",
+      "title": "Keynote de clôture · Musique et intelligence artificielle",
+      "source": "https://buttondown.com/nirina/archive/retour-sur-le-bdxio/",
+      "speakers": [
+        {
+          "name": "Nirina Rabeson",
+          "photo": "https://media.licdn.com/dms/image/v2/D5603AQFWR8egYtPbmA/profile-displayphoto-scale_400_400/B56ZeJuXguHQAg-/0/1750362324702?e=1796860800&v=beta&t=FEmURL_uxb6LzQ_uYrnR3SN7qwdviB0bqy3py6C1fA0",
+          "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/nirinarabeson/"
+            },
+            {
+              "label": "site",
+              "url": "https://buttondown.com/nirina/"
+            }
+          ]
+        }
+      ],
+      "id": "vendredi-closing",
+      "category": "Hors-piste",
+      "level": "",
+      "day": "vendredi",
+      "time": "",
+      "format": "Keynote",
+      "duration": null,
+      "room": "amphi-a",
+      "roomLabel": "Amphi A",
+      "status": "complete",
+      "noteFile": "vendredi/amphi-a/closing.md"
+    }
+  ]
+}
