@@ -9,6 +9,14 @@ Site indépendant de BDX I/O, distribué sous forme d’image Docker sur GitHub 
 - Les 72 fichiers Markdown précédemment préparés sont dans `content/`. Les ateliers sans notes figurent aussi dans le planning.
 - Portraits et liens publics du programme BDX I/O, complétés avec les profils fournis par Julien. Les portraits existants sont conservés. Pour les portraits manquants : LinkedIn en priorité ; GitHub lorsqu’aucun profil LinkedIn n’est renseigné. Si le portrait reste inaccessible, les initiales sont affichées.
 
+## Édition 2025
+
+Le 7 novembre 2025 au Palais des Congrès de Bordeaux Lac : 45 talks du programme officiel, complétés par la keynote d’ouverture identifiée dans la transcription de l’amphi A. Les 45 durées du programme ont été récupérées sur les pages de détail. La durée de la keynote reste non renseignée.
+
+Vingt-quatre carnets complets et huit partiels sont disponibles dans `content/2025/vendredi/`, pour les amphis A et B et les salles 1 à 4. Les quatre extraits de la salle 3 sont incomplets : trois introductions et un passage MedTech plus développé, avec coupures. Les trois extraits de la salle 4 sont également coupés en début de développement. Le début du quickie de Vincent Dubois manque dans la transcription. Les 14 autres talks attendent leurs transcriptions ; leur salle et leur horaire ne sont pas déduits sans source. Les timestamps des carnets désignent la vidéo, pas l’heure de passage. La clôture contient des remerciements et un quiz, sans talk supplémentaire identifié.
+
+Les contacts à compléter figurent dans [contacts-2025-a-completer.md](contacts-2025-a-completer.md). Les profils existants, GitHub et sites personnels ont été conservés, les portraits disponibles sont stockés localement.
+
 ## Voir le site
 
 La version construite est dans `dist/`. Ouvrir `dist/index.html` directement fonctionne aussi : les données sont embarquées dans un script local et le site ne dépend pas d’un fetch de fichier JSON.

@@ -1,0 +1,514 @@
+[inaudible]
+C'est bien le cas.
+[bruit de micro] Je suis bien heureux.
+Un micro main.
+Euh, je sais que sur certaines salles, il y a des micros cravates de prévus, mais voilà.
+Et au niveau du micro, le plus proche du menton.
+OK.
+Voilà.
+Très bien.
+Et euh, on s'amuse pas à jouer avec le, la petite bague.
+Ça fait clic.
+Ça, ça coupe le micro finalement.
+Voilà.
+[rire] Comme ça, OK.
+[rire] C'est très bien.
+Normalement, il y aura un bénévole qui va s'occuper de vous filmer.
+D'accord.
+Il est pas encore arrivé, mais on ne commence pas sans bénévole.
+Oui.
+[rire] C'est bien arrivé.
+Ça peut
+arriver,
+il y a des gens
+qui sont pressés.
+[rire] Mais je,
+je peux tourner les
+cheveux.
+D'accord, très bien.
+Merci.
+Bonjour.
+Hello, ça va ?
+OK.
+Tu préfères les micros mains ou micros cravates ?
+C'est toi qui fais le talk.
+Ça sera-- t'as le choix entre cravate
+et, euh, et mains.
+Si la cravate alors ta collègue m'a passé une micro comme ça.
+Non mais voilà, c'est au choix.
+S'il est dispo en cravate, je préfère, mais sinon, c'est pas grave.
+Bah, c'est au choix.
+Si tu préfères, tu peux.
+Sinon, main.
+Ok ?
+Ok, parfait.
+Je passe les salles pour lui dire un peu.
+D'accord.
+Oui, si, c'est très bien.
+Là, je vous montrerai le temps.
+Ok.
+Vous avez vingt minutes, dix minutes,
+cinq minutes, deux minutes et une minute.
+Et une minute, c'est la fin.
+[rire] Je passerai, je lèverai dès que je vois qu'il y a un contact.
+Ok, super.
+[toux]
+Je ne sais pas.
+Je reste planté là.
+Sur mon cal-- Euh...
+Est-ce que vous êtes l'intervenant ?
+C'est vous l'intervenant ?
+Non, moi, je suis...
+Ah !
+Je pensais que vous étiez l'intervenant.
+Oui, oui, c'est ça.
+Du coup, c'est vous qui avez un souci de PowerPoint ?
+Non, c'est dans l'atelier.
+Dans notre endroit.
+Euh, t'es dans le H aussi ?
+Oui.
+Tu sais faire la captation vidéo ou pas ?
+Non, tu sais pas ?
+Euh, non.
+Bah si tu veux, je vais gérer alors.
+Ou tu veux que je te montre ?
+Je veux bien que vous me montriez en même temps.
+Bonjour.
+Je dirais, je dirais que tout va bien.
+D'accord.
+Il n'y a pas de retour écran.
+Oui, exactement.
+Merci.
+Merci.
+Bonjour.
+Salut.
+Je vais, euh,
+je vais prendre tout ça.
+Euh, après, il y a des questions à la fin,
+il faut faire passer le micro
+ou les répéter dans le micro.
+Ok.
+Pour la question, pour la donner, oui, ça va faire ça.
+Ok.
+Et on part
+quand tu veux.
+Ok.
+Bonjour.
+Ça marche.
+Euh, oui, si t'as...
+Ouais, super.
+C'est bien, euh, niveau batterie.
+C'est, c'est la mort.
+Ok, on va pouvoir démarrer.
+Euh, bonjour.
+Allez, on va démarrer.
+Bonjour à tous et à toutes.
+Euh, heureux d'être avec vous à Bordeaux, surtout pour cette édition anniversaire.
+Euh, donc,
+avant de démarrer, deux petits disclaimers, deux petites précisions par rapport à cette conf.
+Euh, la première, c'est que je vais vous présenter tout un tas d'exemples.
+Et donc ces exemples, comme son nom l'indique, n'ont pas...
+Ça va pas être exhaustif.
+En fait, l'objectif de cette présentation, ça va être vraiment de vous montrer la puissance du biomimétisme et comment l'appliquer, euh, dans la cybersécurité et plus largement dans l'informatique.
+Donc c'est vraiment, euh, une méthode d'inspiration.
+D'ailleurs, on parle de bio-inspiration pour le biomimétisme également.
+Euh, deuxième petit point important, c'est que, euh, ce que je vais vous présenter, c'est des...
+C'est pas, euh, c'est pas abstrait du tout.
+Tout au contraire, c'est des exemples très concrets, des exemples qu'on a appliqués, qui ont été étudiés, évalués, qu'on a, euh, déployés en prod.
+Donc, euh, voilà.
+Allez, on va y aller parce qu'on a un programme qui est un peu chargé.
+Alors, je me présente.
+Donc, je m'appelle Ludovic Lefebvre.
+Ça fait plus de quinze ans que je travaille chez Cdiscount et notamment pour Pixis, qui est sa filiale technologique.
+Euh, Pixis, c'est quoi ?
+On a un stand aujourd'hui sur place.
+C'est plus de 600 collaborateurs à Bordeaux, euh, qui travaillent pour toutes les filiales de Cdiscount et qui permettent de mettre à l'échelle, euh, tous nos assets, et notamment pour des grands événements comme le Black Friday qui va arriver avec plus de 1 200 commandes minute.
+Donc, on a tout un tas de chiffres.
+Allez, on va démarrer sur le biomimétisme.
+Euh, donc, je vous ai mis ici un bas-relief.
+Est-ce que quelqu'un le connaît ?
+Est-ce que vous avez déjà vu ce bas-relief ?
+Non, personne ?
+Alors, c'est un bas-relief qui est au Louvre.
+Alors, il est en bon état encore.
+Voilà.
+C'est, c'est gratuit.
+Euh, et qu'est-ce qu'il représente ?
+Il représente une célèbre rencontre entre Alexandre le Grand, qui est sur son cheval dominant, grand con-, grand conquérant, et en bas à droite, Diogène.
+Diogène, qui est un philosophe.
+Et durant cette rencontre, donc c'est Alexandre qui vient à Corinthe et qui va lui-- qui vient lui demander plusieurs choses.
+Il va lui demander s'il peut exaucer un de ses vœux.
+Et pour l'histoire, ce qu'a dit Diogène, donc qui est dans la rue, très simplement dans un tonneau, il lui a dit : « Aut-
+Un, deux, un, deux.
+C'est bon ?
+Moi aussi, j'essaye.
+C'est bon ?
+Voilà.
+De l'ADN pour- Je remonte.
+Ouais, c'est bon.
+De toute façon, la dernière fois...
+La dernière fois, j'ai oublié de le mettre en route.
+C'est en mode décompte ?
+Non.
+On a pas encore essayé, mais normalement, non.
+Non, mais il faut faire séparément.
+Donc, si tu as envie.
+Mais après, de toute façon, il y a quelqu'un qui va nous...
+Ah puis on peut plus là.
+On est coincé en mode...
+Ouais, presque.
+Donc...
+Je fais un cours de sport et le prof, il demande : « Qui sera là ?
+» Je le fais avec mon mari.
+Il ne répond pas : « Moi, je serai.
+» Mais surtout, vous ne répondrez pas pour moi, quoi.
+[rire]
+Ouais, moi aussi, je suis en train de sécher déjà, tu sais.
+[rire] Un, deux, un.
+Ouais.
+[rire] Alors, qu'est-ce qui passe à côté ?
+Bonjour.
+Bonjour.
+Bonjour.
+Ah, c'est vous qui faites...
+Ouais, dans ce sens-là.
+Super.
+Ok, nickel.
+Euh, est-ce que tu crois que...
+Oui, il y a plusieurs.
+Moi, je suis avec...
+Elles m'ont dit qu'elles devaient être chacune de leur côté de la scène.
+Du coup...
+Non, je te fais des recettes sur la chaîne de Marie.
+Je fais ton petit projet.
+C'est en gros, t'appuies sur le bouton vert.
+Ça va faire ça de...
+Un, deux, un, deux.
+T'as des micros-cravates si tu préfères.
+Ouais.
+Mais ouais, sinon, c'est quand même mieux.
+Ça fait bizarre de te dire le texte.
+[rire] Parce que non, parce que vous, c'est fait, puisque vous êtes deux ici.
+Ouais.
+On a prévu ça pour vous.
+Ah bah...
+Elle nous en a donné deux, donc...
+Ouais, ouais, non mais c'est comme vous voulez.
+Ah bah nous, on fait les deux nouveaux.
+En tout cas...
+Après, c'est peut-être pas dans la salle, mais dans la tête.
+Un, deux.
+C'est ça, c'est plus simple.
+On s'occupe de rien.
+Mais après, je sais pas moi, si elle vous a dit la qualité moins bonne...
+Ah bon ?
+Ça dépend.
+Tout à l'heure, en attendant...
+Ils viennent de nous sortir les micros-cravates.
+Oui, c'est ça.
+Juste, euh, d'un manière générale, avec les micros-cravates, si vous voulez...
+Ok.
+Je gère le temps.
+D'accord.
+Ok.
+Si vous préférez les micros-cravates, il n'y a pas de souci.
+C'est juste qu'on n'a pas trop l'habitude des micros, donc je ne sais pas si on va bien s'en servir.
+Enfin, je ne sais pas.
+Généralement, il faut les mettre...
+Oui, oui, non, mais on l'a vu, on l'a vu, mais ce n'est pas pour autant qu'on sait.
+On peut.
+Ouais, on peut.
+On peut tenter, ouais.
+Moi, je n'ai jamais fait les deux.
+Ça, c'est qu'il faut que tu penses.
+Ouais, non mais c'est clair.
+Ouais, si tu veux.
+Alexandra et Claire.
+Donc, je pense qu'un micro-cravate, ça serait bien.
+Je sais que c'est compliqué de suivre, enfin de ne pas l'oublier, de ne pas...
+Elle a l'habitude.
+[rire] Ok, là, il est allumé.
+D'accord.
+Et on le met...
+Je peux le mettre encore, ouais, tout à fait.
+Je peux tester ?
+Plus haut ?
+Ouais.
+Et là, c'est bon ?
+Et là ?
+Ça va, là ?
+Est-ce que c'est bon ?
+Un, deux, un, deux.
+Ouais, vous m'entendez ?
+Oui ?
+Ouais.
+Euh oui, ben je m'appelle Alexandra.
+Salut.
+[rire] Un peu faible ?
+Après ?
+Ah.
+[rire] Je pense qu'on peut le mettre plus bas parce que...
+Plus bas ?
+Ouais, je sais pas.
+Ok.
+Tu parles plus fort quand même.
+Oui.
+Il faut que tu parles...
+Oui, ça va là ?
+Ça va ?
+Un, deux, un, deux.
+Ouais.
+Il n'y a pas de souci.
+De l'ADN au produit.
+C'est bon là ?
+Ouais.
+Ok.
+Ce n'est pas dans le micro, c'est dans le live.
+Pardon.
+Non, il n'y a pas de souci.
+Ok.
+Ouais, maintenant.
+Et si je parle, quand je parle normalement ici, là, c'est bon ?
+Ok.
+Super.
+Et donc maintenant, on nous entend tout le temps.
+C'est ça qu'on a dit.
+C'est ce que je viens de comprendre.
+[rire] C'est ça.
+Oui, c'est bon.
+Merci.
+Mais comme ça, toi, tu n'as plus besoin de t'en soucier.
+Ouais, non, mais c'est sûr.
+Et donc moi, j'ai ça quand même.
+Oui.
+Ok.
+Super.
+[rire] Je te regarde pendant un quart d'heure.
+Vas-y, tu connais tout.
+[rire] En plus, on va faire
+une photo devant ça, c'est cool ça.
+Comment ?
+Les deux.
+Avec le Taipei derrière.
+D'accord.
+Tu comprends ?
+Mmm-hmm.
+J'essaie de faire comme elle.
+Ouais.
+Top.
+J'évite de trop sourire, sinon je fais hamster.
+[rire] J'ai pas de technique.
+Elle est terrible.
+[rire] La deuxième.
+C'est là ?
+Parfait.
+C'est la première.
+Ouais, c'est la première.
+Non, j'essaye parce qu'en mode selfie, c'est rigolo aussi.
+Si j'y arrive.
+Ça m'occupe.
+Il y a encore cinq minutes.
+Vous êtes hyper motivés quand même.
+Vous êtes vraiment en avance et tout.
+Merci.
+Bonjour.
+C'est un quickie ou c'est...
+Un quickie.
+Et ben...
+Merci.
+C'est 55, donc encore quelques minutes.
+C'est ça.
+Si on peut dire.
+Maintenant, ça n'a l'air de nulle part, il y a que là où on veut être.
+C'est
+cool.
+Ouais, carrément.
+Je commence par là, c'est vrai, organiser un sponsor comme ça, c'est fait.
+C'est vrai.
+On s'en fiche de lire le titre, de toute façon.
+Oui, de
+toute façon.
+On accompagne les boîtes de la MedTech, côté réglementaire, côté produit.
+On
+va dire un tout, enfin...
+Oui, notre parcours.
+C'est très rapide.
+Bonjour.
+Bonjour.
+C'est toi qui commenceras.
+Donc, une fois que tu as dit :
+On est dans les médecins, on est dans la tech.
+Ouais.
+Là, j'enchaîne.
+C'est ça.
+C'est vrai qu'on est dans les médecins, mais on peut quand même...
+On charge une médicale de formation, ça fait longtemps que je suis dans la Medtech.
+Ok.
+Pour s'entraîner, on peut tout refaire défiler, vous spoiler jusqu'au bout et puis après, on commence.
+C'est une bonne idée, c'est pour ça que je viens de prendre l'arrivée aussi.
+Après, il faut qu'on tienne bien 15 minutes.
+Ouais, ça va.
+Je pense que c'est bon.
+Bonjour.
+Bonjour.
+Let's go.
+Ok, super.
+Hop, t'es assise, impeccable, c'est bon.
+On commence.
+Merci à tous d'être là.
+Merci aux orgas d'organiser une conférence.
+De toute façon, on sait que c'est beaucoup de boulot.
+Aux sponsors de sponsoriser ce genre d'événement parce que c'est important.
+C'est aussi eux qui font vivre les confs.
+Et donc là, nous, on est là toutes les deux à vous faire ce tour pour la première fois ensemble.
+Et donc, avec toutes les deux une expérience dans les MedTech et puis côté réglementaire, donc pour Alexandra et puis côté produit pour moi, on accompagne toutes les deux des entreprises sur ces thématiques-là.
+On va commencer direct.
+Première question qu'on a pour vous, histoire de plonger dans un sujet, c'est : on va vous demander de trouver une maladie.
+Donc, quelle maladie provoque une douleur entre 7 et 10 pendant plusieurs jours, sachant que 7, qu'est-ce que c'est ?
+7, c'est une colique néphrétique, c'est une rage de dent.
+Donc, on est quand même sur un niveau de douleur, on n'est pas très bien.
+Et 10, c'est un infarctus.
+Et donc, on a ces douleurs-là pendant plusieurs jours.
+Un autre indice.
+Et qui met en moyenne 7 ans à être diagnostiqué.
+Ça, peut-être, ça vous fait tilt.
+Un dernier indice.
+C'est ça.
+Qui revient tous les mois.
+Est-ce que quelqu'un l'a ?
+Bien entendu.
+C'est ça.
+Allons-y, c'est de ça qu'on parle.
+Cette maladie, c'est effectivement l'endométriose.
+Marie, elle souffre depuis l'adolescence, comme de nombreuses femmes d'ailleurs.
+Et à chaque cycle, la douleur revient.
+On lui répète que c'est normal, que c'est comme ça chez les femmes.
+Alors nous, aujourd'hui, la question, c'est : comment on fait pour changer ça ?
+Alors, on n'est pas médecin, des super héros du quotidien, mais on est dans la tech.
+Mais on est dans la tech, mais on n'est pas juste dans la tech aussi quand même.
+Ce que je disais, c'est qu'on est dans les medtech, donc c'est-à-dire moi, je suis ingénieure biomédicale de formation et ça fait vingt ans que je fais du logiciel médical.
+Et moi, je suis biologiste de formation et ça fait plus de dix ans que j'accompagne les medtech, justement, sur toutes ces questions-là.
+Donc voilà, c'est juste pour vous dire que nous aussi, on peut faire bouger les lignes et pas seulement de code.
+Et donc, ce qu'on va vous montrer là, ça va être un exemple concret, justement, de projet qu'on peut mener sur l'endométriose.
+C'est bien sûr pas nous qui l'avons fait.
+Et dans la médecine,
+en fait, la première étape lorsqu'on veut faire bouger les choses, les faire avancer, ça va être de trouver un biomarqueur.
+Un biomarqueur, c'est quoi ?
+C'est juste un marqueur biologique, ça veut dire que c'est quelque chose qu'on va pouvoir mesurer, qui va nous permettre de détecter ou de mesurer
+une maladie.
+Par exemple, pour le diabète, ça va être la glycémie.
+Pour le cancer, ça peut être un gène
+ou une protéine.
+Donc voilà, on va essayer de trouver ce biomarqueur.
+Comment on fait ?
+On s'y prend comme dans n'importe quel projet data, IA.
+La première étape, ça va être de collecter de la donnée.
+Collecter de la donnée, spoiler alert, en médical, c'est pas si simple.
+Pourquoi c'est pas si simple ?
+Déjà, on parle là de données génétiques.
+Données génétiques, pour que vous rendiez compte la volumétrie, les données génétiques d'un patient, c'est 15 gigas.
+On veut travailler sur 1000 patients.
+Voilà.
+Quand on parle, pour la case 1, je vous redis, jeu de données indépendant, il faut plus de données, c'est toujours aussi compliqué.
+Donc voilà.
+Et puis, une fois qu'on a fait ça, on a prouvé que notre modèle marche, c'est super, on va l'utiliser dans la vraie vie.
+On est trop forts.
+On est trop fortes, on va mettre quand même au féminin.
+Donc trop bien, c'est super, allons-y.
+Et donc là, ce qu'on va vous dire après, c'est inspiré de la vie réelle, mais c'est pas la vie réelle.
+D'accord ?
+Mais voilà, c'est juste pour prévenir.
+Imaginez, vous avez votre femme, votre fille, votre mère.
+Ça fait sept ans là qu'elle est en errance médicale et puis elle voudrait un diagnostic.
+Et donc là, ça y est, on lui a sorti un test.
+Elle espère quand même essayer de savoir qu'est-ce que j'ai en fait pour pouvoir bien me soigner.
+Et puis là, elle appelle et on lui dit : « On est désolés, on a perdu votre résultat ».
+Ok.
+Bon, vous imaginez.
+Et donc là, quand on est dans la tech, on se dit : « Non, mais c'est juste pas possible, on perd pas un résultat numérique ».
+D'accord ?
+Il est quelque part.
+Donc, je sais que moi, derrière, il va y avoir des logs, il va y avoir de l'audit trail, il va y avoir des choses qui vont me permettre d'aller retrouver ce résultat.
+Et donc, ces choses-là, c'est parce qu'en fait, on sait que derrière, il y a des devs qui ont bien fait leur boulot et qui ont des bonnes pratiques de dev.
+Avec, par exemple, le clean code.
+Il va nous dire : « Il faut que votre code, il soit lisible, il soit compréhensible, il soit
+structuré ».
+Et puis donc, avec aussi des algos derrière qui sont clairs et explicables.
+Et tout ça, traçable.
+Tout ça, c'est tracé, justement.
+C'est ce qu'on essaye de faire, par exemple, quand on utilise des logs, à expliquer que fait le logiciel, quand et comment, pourquoi il le fait.
+Donc, on se retrouve avec des logs qui nous permettent d'analyser et c'est les bonnes pratiques de dev, évidemment.
+Mais ce n'est pas que ça.
+Pendant que justement, vous, en fait, vous parcourez ce processus de cycle de développement logiciel, derrière, vous appliquez une norme sans le savoir, qui s'appelle effectivement processus du cycle de développement logiciel de dispositif médical.
+C'est la fameuse 62304.
+Et en fait, cette norme, c'est un peu le clean code du dispositif médical.
+Elle va imposer d'avoir une architecture claire, des exigences traçables et des tests systématiques.
+Elle va aussi demander une vraie gestion du changement, c'est-à-dire que chaque bug, chaque évolution doit être analysée, corrigée, testée, révisée.
+Et donc, la 62304, elle va vraiment formaliser tout ça.
+C'est déjà ce qu'elle fait.
+Sauf qu'en plus de tout ça, elle va demander, elle va ajouter la preuve.
+Donc là où le clean code, lui, va parler de qualité, la 62304, elle va parler de confiance.
+Elle va transformer vos bonnes pratiques de dev en preuve.
+Donc là, si vous me suivez bien, votre femme, votre mère, votre fille, là, on a perdu son résultat.
+Heureusement, les devs ont bien fait leur boulot, on a retrouvé le résultat.
+On laisse ouvert,
+peu importe quand ça commence.
+On laisse ouvert jusqu'à là, peut-être.
+Ouais, ça marche.
+Oui, ça n'empiète pas sur...
+Ok.
+T'as un chauffeur de salle, là ?
+Magali, allez.
+On va commencer dans quelques minutes.
+C'est pour que vous puissiez revoir la conférence si vous n'êtes pas là tout de suite.
+Parce qu'après manger, il y a la digestion et quand même, ça va être dur.
+Et c'est parti.
+C'est parti.
+Bonjour à tous.
+Merci d'être là.
+J'espère que vous nous entendez bien.
+On va être deux, on va se switcher.
+Je sais que vous êtes en pleine digestion, on a tous mangé.
+On va essayer de ne pas vous perdre dans toutes nos explications, d'être le plus clair possible.
+Aujourd'hui, on va vous parler de design system, ce fameux design system qui peut faire peur, qui fait peur à certaines équipes.
+On entend souvent que les systèmes, ça prend du temps, ça coûte cher, etc.
+Donc, on va vous parler de ça, on va vous expliquer la problématique qu'on a rencontrée au sein de notre organisation interne
+et comment on a essayé de la résoudre, ce qu'on a mis en place et également les bénéfices qu'on a pu rencontrer, gagner, je dirais, par rapport à tout ça.
+Déjà, on va commencer par se présenter.
+Donc moi, je suis Julie, je suis lead UX designer et DesignOps et je laisse ma...
+Et moi, c'est Wanda et je suis product designer et intégratrice front-end.
+On ne dirait pas, mais ça peut aller ensemble.
+Ça marche ensemble.
+Et toutes les deux, on travaille pour l'agence 4SH, qui est une agence de développement logiciel.
+On est basé sur Bordeaux et sur Capbreton.
+On est une équipe d'une centaine de personnes
+et au sein de 4SH, les équipes, elles conçoivent, elles développent et elles maintiennent des logiciels métiers de nos clients.
+Ok.
+Alors.
+C'est bon ça ?
+C'est bon, on peut y aller ?
+Attendez, je mets mon micro.
+Tac.
+Est-ce qu'on m'entend bien ?
+Ouais, ça va.
+Est-ce que dans le fond de la salle, on voit bien le code ?
+Pour de vrai ?
+Pas trop ?
+Allez, on peut zoomer.
+Hop.
+Voilà.
+On va exagérer le zoom.
+Comme ça, c'est pas trop mal, au fond ?
+Ok.
+Bonjour tout le monde.
+Je suis content d'être avec vous
+cet après-midi pour vous parler d'algorithme de labyrinthe.
+J'avais un peu marre, j'en avais un peu ras-le-bol des sujets d'IA, donc
+je propose un peu un truc alternatif.
+On va regarder ensemble des algorithmes assez simples, en tout cas les premiers algorithmes qu'on peut commencer à implémenter pour pouvoir générer un labyrinthe.
+Si vous travaillez dans le jeu vidéo, ça peut être utile.
+Sinon, pas trop, mais c'est marrant.
+Je vais vous parler d'abord du modèle que j'ai mis en place,
+qui est un modèle très très générique et je pense instinctivement que vous seriez tombé à peu près sur le même truc, notamment une classe cellule, une classe grille, ce genre de choses.
+Donc on va regarder.
+Alors, la classe cellule.

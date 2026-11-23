@@ -32,6 +32,21 @@
       ]
     },
     {
+      "year": 2025,
+      "catalog": "data/catalog-2025.json",
+      "content": "content/2025",
+      "datesLabel": "7 NOVEMBRE",
+      "location": "PALAIS DES CONGRÈS DE BORDEAUX LAC",
+      "days": [
+        {
+          "id": "vendredi",
+          "label": "Vendredi",
+          "short": "7 nov.",
+          "date": "7 novembre"
+        }
+      ]
+    },
+    {
       "year": 2026,
       "catalog": "data/catalog.json",
       "content": "content",

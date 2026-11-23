@@ -460,6 +460,10 @@
           "photo": "https://github.com/user-attachments/assets/b08c2280-1a9c-4378-a65e-4e78e212b031",
           "links": [
             {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/mickaelalves/"
+            },
+            {
               "url": "https://x.com/mickaelalvs",
               "label": "twitter"
             },
@@ -777,6 +781,10 @@
           "photo": "https://lh4.googleusercontent.com/-6krIgoWnkGk/AAAAAAAAAAI/AAAAAAABR4o/EJH0Fh-m16k/photo.jpg",
           "links": [
             {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/horaciogonzalez/"
+            },
+            {
               "url": "https://x.com/LostInBrittany",
               "label": "twitter"
             },
@@ -973,6 +981,10 @@
           "name": "Théo Gianella",
           "photo": "https://avatars.githubusercontent.com/u/122352170?v=4",
           "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/th%C3%A9o-gianella/"
+            },
             {
               "url": "https://github.com/TGianella",
               "label": "github"
@@ -1234,6 +1246,10 @@
           "name": "Horacio Gonzalez (LostInBrittany)",
           "photo": "https://lh4.googleusercontent.com/-6krIgoWnkGk/AAAAAAAAAAI/AAAAAAABR4o/EJH0Fh-m16k/photo.jpg",
           "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/horaciogonzalez/"
+            },
             {
               "url": "https://x.com/LostInBrittany",
               "label": "twitter"
@@ -1988,6 +2004,10 @@
           "photo": "https://lh3.googleusercontent.com/a/ACg8ocJFGipmBPS5OAz8-CVFq_5fhWDu6KVSftlIZhx1QU_HEZS5hTg=s96-c",
           "links": [
             {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/youssef-nait-belkacem-a5892480/"
+            },
+            {
               "url": "https://github.com/NaitYoussef",
               "label": "github"
             },
@@ -2479,6 +2499,10 @@
           "name": "Mickael Alves",
           "photo": "https://github.com/user-attachments/assets/b08c2280-1a9c-4378-a65e-4e78e212b031",
           "links": [
+            {
+              "label": "linkedin",
+              "url": "https://www.linkedin.com/in/mickaelalves/"
+            },
             {
               "url": "https://x.com/mickaelalvs",
               "label": "twitter"
